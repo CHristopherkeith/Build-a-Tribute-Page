@@ -1,0 +1,16 @@
+body {
+  margin-top: 60px;
+  
+  font-family: "Helvetica Neue", Helvetica, Arial,Microsoft YaHei,SimHei,SimHei,sans-serif;
+}
+blockquote p,.more {
+  font-size: 16.5px !important;
+}
+.img-thumbnail:hover{
+  border: solid 4px #D8D7D7;
+}
+/*
+.col-xs-3 img{
+  width: 100%;
+  height: auto;
+}*/
